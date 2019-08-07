@@ -1,0 +1,24 @@
+\usepackage{fancyhdr}
+\usepackage{fullpage}
+%\usepackage{tex4ht}
+\usepackage{hyperref}
+\usepackage[parent]{currfile}
+\usepackage{graphicx}
+\usepackage{subfigure}
+%\usepackage{garamond}
+\usepackage[T1]{fontenc}
+\fontfamily{georgia}\selectfont
+\setlength{\topmargin}{0.30in}
+\setlength{\headheight}{50pt}
+\renewcommand{\baselinestretch}{0.8}
+\lhead{Jos\'{e} Nelson Amaral}
+\chead{\recipeName}
+\rhead{jamaral@ualberta.ca}
+\cfoot{}
+\lfoot{}
+\rfoot{}
+\pagestyle{fancy}
+\date{}
+\setcounter{page}{1}
+\newcommand \imageDir {../../FNKimages}
+
