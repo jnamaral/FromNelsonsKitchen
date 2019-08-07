@@ -20,5 +20,5 @@
 \pagestyle{fancy}
 \date{}
 \setcounter{page}{1}
-\newcommand \imageDir {../../FNKimages}
+\newcommand \imageDir {../FNKimages}
 
