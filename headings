@@ -20,5 +20,6 @@
 \pagestyle{fancy}
 \date{}
 \setcounter{page}{1}
-\newcommand \imageDir {../FNKimages}
+\newcommand \imageDir  {../FNKimages}
+\newcommand \imagePath  {https://jnamaral.github.io/FNKimages}
 
